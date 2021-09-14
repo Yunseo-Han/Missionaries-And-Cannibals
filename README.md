@@ -1,4 +1,4 @@
-# Missionaries-and-Cannibals
+# Missionaries-And-Cannibals
 The missionaries and cannibals problem is a well-known toy problem in artificial intelligence.
 
 Missionaries and Cannibals is a problem in which 3 missionaries and 3 cannibals want to
